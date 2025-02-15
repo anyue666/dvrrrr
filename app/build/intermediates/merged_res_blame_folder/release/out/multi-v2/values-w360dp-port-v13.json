@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android Studio\\XM\\11\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-w360dp-port\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,117,174,231,299,365,421,487",
+                        "endColumns": "58,55,55,66,64,54,64,68",
+                        "endOffsets": "111,168,225,293,359,415,481,551"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,170,226,293,358,413,478",
+                        "endColumns": "58,55,55,66,64,54,64,68",
+                        "endOffsets": "109,165,221,288,353,408,473,542"
+                    }
+                }
+            ]
+        }
+    ]
+}

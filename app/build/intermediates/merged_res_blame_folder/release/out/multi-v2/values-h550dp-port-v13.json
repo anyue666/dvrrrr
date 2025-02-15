@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android Studio\\XM\\11\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-h550dp-port\\dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "76",
+                        "endOffsets": "129"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

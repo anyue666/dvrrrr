@@ -1,0 +1,35 @@
+allprojects {
+    tasks.withType(JavaExec) {
+        jvmArgs += ["--add-opens", "java.base/java.io=ALL-UNNAMED"]
+    }
+}
+
+
+
+buildscript {
+    repositories {
+    	google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.2'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+tasks.withType(JavaCompile).configureEach {
+    options.compilerArgs += ["--add-opens", "java.base/java.io=ALL-UNNAMED"]
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.compilerArgs += ["--add-opens", "java.base/java.io=ALL-UNNAMED"]
+}

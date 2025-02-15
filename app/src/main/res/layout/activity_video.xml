@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:tag="layout/activity_video_0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:id="@+id/activity_video_content"
+        android:background="@drawable/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <View
+        android:id="@+id/activity_video_coverview"
+        android:background="@drawable/ic_launcher_background"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/activity_video_ll_control"
+        android:tag="binding_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include
+            android:id="@+id/activity_video_control"
+            layout="@layout/activity_video_control"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

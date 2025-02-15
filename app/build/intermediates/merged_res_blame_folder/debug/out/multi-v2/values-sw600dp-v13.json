@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android Studio\\XM\\11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,127,197,268,343,420,480,552,621,682,753,825,898,957,1016,1123,1188,1245",
+                        "endColumns": "68,68,69,73,75,58,70,67,59,69,70,71,57,57,105,63,55,58",
+                        "endOffsets": "121,191,262,337,414,474,546,615,676,747,819,892,951,1010,1117,1182,1239,1299"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543,611,671,741,812,884,942,1000,1106,1170,1226",
+                        "endColumns": "68,68,69,73,75,58,70,67,59,69,70,71,57,57,105,63,55,58",
+                        "endOffsets": "119,188,258,332,408,467,538,606,666,736,807,879,937,995,1101,1165,1221,1280"
+                    }
+                },
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "244"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1348",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1532"
+                    }
+                },
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "62",
+                        "endOffsets": "115"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1285",
+                        "endColumns": "62",
+                        "endOffsets": "1343"
+                    }
+                }
+            ]
+        }
+    ]
+}

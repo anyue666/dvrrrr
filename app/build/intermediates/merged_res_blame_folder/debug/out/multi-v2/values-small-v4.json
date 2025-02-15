@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android Studio\\XM\\11\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "map": [
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-small\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,131",
+                        "endColumns": "72,69",
+                        "endOffsets": "125,196"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,128",
+                        "endColumns": "72,69",
+                        "endOffsets": "123,193"
+                    }
+                }
+            ]
+        }
+    ]
+}

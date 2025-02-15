@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:tag="layout/activity_btest_0"
+    android:background="@color/main_top_default_color"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/dp32"
+    android:layout_marginStart="@dimen/dp32"
+    android:layout_marginEnd="@dimen/dp48"
+    app:layout_constraintTop_toTopOf="parent">
+    <com.autolink.dvr.p003ui.view.DvrRecyclerView
+        android:id="@+id/testView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

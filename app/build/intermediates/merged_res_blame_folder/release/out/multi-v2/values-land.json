@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android Studio\\XM\\11\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "2,6,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,250,865",
+                        "endLines": "5,14,17",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "244,859,1103"
+                    },
+                    "to": {
+                        "startLines": "23,27,36",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1561,1750,2356",
+                        "endLines": "26,35,38",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1745,2351,2592"
+                    }
+                },
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,128,200,269,345,420,494,565,631,699,770,843,913,983,1066,1157,1234,1303,1371",
+                        "endColumns": "69,70,67,74,73,72,69,64,66,69,71,68,68,81,89,75,67,66,77",
+                        "endOffsets": "122,194,263,339,414,488,559,625,693,764,837,907,977,1060,1151,1228,1297,1365,1444"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,196,264,339,413,486,556,621,688,758,830,899,968,1050,1140,1216,1284,1351",
+                        "endColumns": "69,70,67,74,73,72,69,64,66,69,71,68,68,81,89,75,67,66,77",
+                        "endOffsets": "120,191,259,334,408,481,551,616,683,753,825,894,963,1045,1135,1211,1279,1346,1424"
+                    }
+                },
+                {
+                    "source": "F:\\Android Studio\\XM\\11\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,123",
+                        "endColumns": "64,66",
+                        "endOffsets": "117,185"
+                    },
+                    "to": {
+                        "startLines": "21,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "1429,1494",
+                        "endColumns": "64,66",
+                        "endOffsets": "1489,1556"
+                    }
+                }
+            ]
+        }
+    ]
+}

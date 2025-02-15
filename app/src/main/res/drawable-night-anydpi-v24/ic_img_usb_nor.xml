@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="240px"
+    android:width="240px"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <group>
+        <clip-path android:pathData="M0,0h240v240h-240z"/>
+        <path
+            android:fillColor="@drawable/_ic_img_usb_nor__0_res_0x7f070010"
+            android:pathData="M120,120m-120,0a120,120 0,1 1,240 0a120,120 0,1 1,-240 0"/>
+        <group>
+            <clip-path android:pathData="M120,120m-120,0a120,120 0,1 1,240 0a120,120 0,1 1,-240 0"/>
+            <path
+                android:fillColor="#46494c"
+                android:pathData="M159,49L236,49A4,4 0,0 1,240 53L240,184A4,4 0,0 1,236 188L159,188A4,4 0,0 1,155 184L155,53A4,4 0,0 1,159 49z"
+                android:strokeAlpha="0.7968"
+                android:fillAlpha="0.7968"/>
+            <path
+                android:fillColor="#2c2c2c"
+                android:pathData="M175,142h44v12.16h-44z"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeAlpha="0.7989"
+                android:fillAlpha="0.4442"/>
+            <path
+                android:fillColor="#8a8d8f"
+                android:pathData="M204,167.33L208,166V172L204,170.67V167.33Z"
+                android:fillType="evenOdd"/>
+            <path
+                android:fillColor="#8a8d8f"
+                android:pathData="M188,166C188,165.45 188.45,165 189,165H204V173H189C188.45,173 188,172.55 188,172V166Z"/>
+            <path
+                android:fillColor="#292929"
+                android:pathData="M176,90h42v10.16h-42z"
+                android:fillAlpha="0.1897"/>
+            <path
+                android:fillColor="#00000000"
+                android:pathData="M175,89h44v12.16h-44z"
+                android:strokeColor="#6a6a6a"
+                android:strokeWidth="2"
+                android:strokeLineJoin="round"
+                android:strokeAlpha="0.7312"/>
+            <path
+                android:fillColor="@drawable/_ic_img_usb_nor__1_res_0x7f070011"
+                android:pathData="M65.9,182.56C75.44,182.56 83.18,174.82 83.18,165.28V91.84C83.18,82.29 75.44,74.56 65.9,74.56L-75.92,74.56C-95.01,74.56 -110.48,90.03 -110.48,109.12V148C-110.48,167.08 -95.01,182.56 -75.92,182.56L65.9,182.56Z"
+                android:fillType="evenOdd"/>
+        </group>
+        <path
+            android:fillColor="#ffffff"
+            android:pathData="M185.87,74.21C183.26,74.21 181.49,72.78 181.49,68.94V62.22H183.34V69.07C183.34,71.73 184.4,72.59 185.87,72.59C187.36,72.59 188.45,71.73 188.45,69.07V62.22H190.24V68.94C190.24,72.78 188.48,74.21 185.87,74.21ZM196.48,74.21C194.86,74.21 193.35,73.57 192.28,72.48L193.37,71.2C194.22,72.05 195.37,72.59 196.51,72.59C197.93,72.59 198.73,71.92 198.73,70.93C198.73,69.86 197.93,69.52 196.84,69.04L195.21,68.34C194.07,67.86 192.81,66.96 192.81,65.25C192.81,63.39 194.44,62 196.68,62C198.06,62 199.35,62.58 200.25,63.49L199.27,64.67C198.54,64.02 197.72,63.62 196.68,63.62C195.48,63.62 194.7,64.19 194.7,65.14C194.7,66.14 195.64,66.53 196.6,66.91L198.22,67.6C199.61,68.19 200.62,69.06 200.62,70.78C200.62,72.67 199.05,74.21 196.48,74.21ZM202.85,74V62.22H206.5C208.91,62.22 210.66,62.99 210.66,65.12C210.66,66.24 210.03,67.31 208.98,67.66V67.74C210.32,68.03 211.3,68.94 211.3,70.54C211.3,72.88 209.39,74 206.79,74H202.85ZM204.71,67.14H206.29C208.08,67.14 208.83,66.46 208.83,65.36C208.83,64.13 208,63.66 206.34,63.66H204.71V67.14ZM204.71,72.54H206.58C208.42,72.54 209.47,71.89 209.47,70.45C209.47,69.12 208.45,68.54 206.58,68.54H204.71V72.54Z"
+            android:strokeAlpha="0.5042"
+            android:fillAlpha="0.5042"/>
+        <path
+            android:fillColor="@drawable/_ic_img_usb_nor__2_res_0x7f070012"
+            android:pathData="M138,151.98C138,158.34 132.84,163.5 126.48,163.5H83V91.5H126.48C132.84,91.5 138,96.66 138,103.02V151.98ZM117.12,147.5C118.71,147.5 120,146.21 120,144.62V140.13C120,138.54 118.71,137.25 117.12,137.25H108.88C107.29,137.25 106,138.54 106,140.13V144.62C106,146.21 107.29,147.5 108.88,147.5H117.12ZM117.12,116.75C118.71,116.75 120,115.46 120,113.87V109.38C120,107.79 118.71,106.5 117.12,106.5H108.88C107.29,106.5 106,107.79 106,109.38V113.87C106,115.46 107.29,116.75 108.88,116.75H117.12Z"
+            android:fillType="evenOdd"/>
+    </group>
+</vector>
